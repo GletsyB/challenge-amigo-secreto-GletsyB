@@ -29,7 +29,7 @@ Como parte del Proyecto de formación de Alura Latam se nos ha solicitado desarr
 
 ![Amigo secreto-Ejecucion de la App](https://github.com/user-attachments/assets/ca66687c-36e7-4358-bea0-5be1f367fbf9)
 
-8.Fin del sorteo: Una vez el sorteo se ejecute y el amigo secreto sea elegido. La aplicacion emitira una alerta indicandole al usuario "no hay amigos en la lista para sortear" y debera el usuario actualizar la aplicacion con F5.
+8.Fin del sorteo: Una vez el sorteo se ejecute y el amigo secreto sea elegido. La aplicacion emitira una alerta indicandole al usuario si este hace click en el boton añadir: "¡Por favor, Inserte un Nombre Valido!" o si el usuario hace click en el boton sortear amigo: "No hay amigos en la lista para sortear". El usuario debera actualizar la aplicacion con F5.
 
 ![Amigo secreto-Finalizacion del juego](https://github.com/user-attachments/assets/0c04a7ef-161c-41d3-bc6a-1bb8c0078af0)
 
