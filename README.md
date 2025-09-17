@@ -3,7 +3,7 @@ Como parte del Proyecto de formación de Alura Latam se nos ha solicitado desarr
 # Funcionalidades:
 1.Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
 
-![Amigo secreto-digite nombre](https://github.com/user-attachments/assets/ae4bc39f-410c-4775-ad4b-82a2cbeb588c)
+![Amigo secreto-digite nombre](https://github.com/user-attachments/assets/0af8bf35-3b6b-448e-92b1-b637dd7f94b5)
 
 2.Validar entrada: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
 
