@@ -9,12 +9,29 @@ Como parte del Proyecto de formación de Alura Latam se nos ha solicitado desarr
 
 ![Amigo secreto-alerta inserta nombre](https://github.com/user-attachments/assets/565d106c-29ef-46aa-8c73-eb0bda06dfb9)
 
-3.Nombres duplicados: Si los usurarios ingresan dos nombres iguales, el sistema emitira una alerta impidiendo el agregado del nombre. El usuario debera agregar otro nombre.
+3.Nombres duplicados: Si los usurarios ingresan dos nombres iguales, el sistema emitira una alerta impidiendo el agregado del nombre. El usuario debera agregar un nombre diferente o agregar otra inicial.
 
-4.Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
+![Amigo secreto-alerta nombre duplicado](https://github.com/user-attachments/assets/cf1891dc-3c7e-45d2-b871-6eefc1bbbd20)
 
-5.Eliminacion de Nombres: Si el usuario, se equivoca ingresando un nombre, puede eliminarlo de la lista clicando en la "X"
+4. Caracteres especiales y numeros: No se permite el ingreso de numeros o caracteres especiales en el nombre, si el usuario ingresa numeros o caracteres especiales, el sistema emitira una alerta impidiendo el agregado del nombre.
 
-6.Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+![Amigo secreto-Alerta de numeros-caracteres](https://github.com/user-attachments/assets/f50cd853-ece7-46ed-99a8-eecc6f07c649)
 
-7.Fin del sorteo: Una vez el sorteo se ejecute y el amigo secreto sea elegido. La aplicacion emitira una alerta indicandole al usuario "no hay amigos en la lista para sortear" y debera el usuario actualizar la aplicacion con F5.
+5.Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
+
+![Amigo secreto-Lista de Nombres](https://github.com/user-attachments/assets/c89d2a9f-303c-4fe2-9222-70d92282c03f)
+
+6.Eliminacion de Nombres: Si el usuario, se equivoca ingresando un nombre, puede eliminarlo de la lista clicando en la "X".
+
+![Amigo secreto-Eliminacion de nombres](https://github.com/user-attachments/assets/8a8d81e3-b289-45ee-8ce8-e0620456d595)
+
+7.Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+
+![Amigo secreto-Ejecucion de la App](https://github.com/user-attachments/assets/ca66687c-36e7-4358-bea0-5be1f367fbf9)
+
+8.Fin del sorteo: Una vez el sorteo se ejecute y el amigo secreto sea elegido. La aplicacion emitira una alerta indicandole al usuario "no hay amigos en la lista para sortear" y debera el usuario actualizar la aplicacion con F5.
+
+![Amigo secreto-Finalizacion del juego](https://github.com/user-attachments/assets/0c04a7ef-161c-41d3-bc6a-1bb8c0078af0)
+
+![Amigo secreto-Finalizacion del juego1](https://github.com/user-attachments/assets/065c45ed-87dd-47da-b06f-3c37d98854bf)
+
