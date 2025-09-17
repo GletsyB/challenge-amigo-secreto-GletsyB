@@ -7,6 +7,8 @@ Como parte del Proyecto de formación de Alura Latam se nos ha solicitado desarr
 
 2.Validar entrada: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
 
+![Amigo secreto-alerta inserta nombre](https://github.com/user-attachments/assets/565d106c-29ef-46aa-8c73-eb0bda06dfb9)
+
 3.Nombres duplicados: Si los usurarios ingresan dos nombres iguales, el sistema emitira una alerta impidiendo el agregado del nombre. El usuario debera agregar otro nombre.
 
 4.Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
