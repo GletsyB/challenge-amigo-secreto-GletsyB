@@ -1,7 +1,7 @@
 # challenge-amigo-secreto-GletsyB
 Como parte del Proyecto de formación de Alura Latam se nos ha solicitado desarrollar una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 # Funcionalidades:
-1.Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
+1.Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Añadir".
 
 ![Amigo secreto-digite nombre](https://github.com/user-attachments/assets/e1ed3c72-a522-4c5a-98e1-94ed5e12b308)
 
